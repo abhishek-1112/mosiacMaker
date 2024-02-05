@@ -1,1 +1,1 @@
-# mosiacMaker
+# mozify
